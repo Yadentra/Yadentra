@@ -24,7 +24,7 @@ I'm deeply interested in combining my construction engineering expertise with my
 * **Web Technologies:** HTML, CSS, React, Flask
 * **Tools & Frameworks:** Git, Selenium, JUnit, Postman
 * **Databases:** MySQL, MongoDB
-* **Construction Engineering:** Project Management, Structural Analysis, AutoCAD Civil 3D & Architecture, Revizto, SketchUP, STAAD Pro, Building information & modeling (BIM).
+* **Construction Engineering:** Project Management, Structural Analysis, AutoCAD Civil 3D & Architecture, Revizto, SketchUP, STAAD Pro, Building information Modeling (BIM).
 * **Other:** Problem Solving, Communication, Teamwork
 ## My Interests:
 * I'm passionate about developing user-friendly interfaces and creating solutions that address real-world challenges.
