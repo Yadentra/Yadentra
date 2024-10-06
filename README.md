@@ -10,7 +10,7 @@ I'm deeply interested in combining my software engineering skills with the pract
     * Cost optimization
     * Real-time data insights
       
-**2. WEATHER LABS: Weather Alert Messaging System:**
+**2. WEATHER LABS App: Weather Alert Messaging System:**
 * A user-friendly weather forecasting app designed to keep users informed and prepared. Key features include:
     * Personalized weather alerts based on location
     * Customizable update frequency
