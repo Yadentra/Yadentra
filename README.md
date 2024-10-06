@@ -1,7 +1,10 @@
-# Yadentra - Software Engineer
-👋  Welcome! I'm Yadentra, a software engineer with a passion for building innovative solutions, particularly in the construction and technology space. 
-## My Focus: Construction & Technology
-I'm deeply interested in combining my software engineering skills with the practical needs of the construction industry. I believe technology can play a crucial role in streamlining workflows, enhancing efficiency, and improving safety on construction projects.
+# Yadentra - Software Engineer (Construction Background)
+👋 Welcome! I'm Yadentra, a software engineer with a unique blend of experience—I'm both a construction engineer and a passionate software developer. 
+## My Focus: Bridging the Gap
+I'm deeply interested in combining my construction engineering expertise with my software engineering skills to create innovative solutions that transform the construction industry. I believe technology has a crucial role to play in:
+* **Streamlining workflows:**  Making processes more efficient and less prone to errors.
+* **Enhancing efficiency:** Optimizing resource allocation and project timelines.
+* **Improving safety:** Implementing tech-driven solutions to enhance site safety.
 ## Current Projects:
 **1. Construction Material Management App:**
 * A mobile application designed to simplify and optimize the management of construction materials. Features include:
@@ -9,8 +12,7 @@ I'm deeply interested in combining my software engineering skills with the pract
     * Streamlined ordering
     * Cost optimization
     * Real-time data insights
-      
-**2. WEATHER LABS App: Weather Alert Messaging System:**
+**2. WEATHER LABS: Weather Alert Messaging System:**
 * A user-friendly weather forecasting app designed to keep users informed and prepared. Key features include:
     * Personalized weather alerts based on location
     * Customizable update frequency
@@ -21,6 +23,7 @@ I'm deeply interested in combining my software engineering skills with the pract
 * **Web Technologies:** HTML, CSS, React, Flask
 * **Tools & Frameworks:** Git, Selenium, JUnit, Postman
 * **Databases:** MySQL, MongoDB
+* **Construction Engineering:** Project Management, Structural Analysis, AutoCAD Civil 3D & Architecture, Revizto, SketchUP, STAAD Pro, Building information & modeling (BIM).
 * **Other:** Problem Solving, Communication, Teamwork
 ## My Interests:
 * I'm passionate about developing user-friendly interfaces and creating solutions that address real-world challenges.
@@ -34,7 +37,7 @@ Programmers often use a technique called "rubber duck debugging" where they expl
 ## Hobbies:
 I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football. 
 ##  Connect with me!
-- [https://github.com/Yadentra]
-- [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
+* Github: [https://github.com/Yadentra]
+* LinkedIn: [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
 
 
