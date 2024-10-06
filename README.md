@@ -32,7 +32,7 @@ I'm deeply interested in combining my construction engineering expertise with my
 * I'm constantly seeking to learn and grow my skills, particularly in areas like mobile development, cloud computing, and AI/ML.
 ##  Connect with me!
 - Feel free to ask me about construction-related topics. I'm happy to share my knowledge and insights.
-- You can reach me at: info@yadentra.de
+* Email: [info@yadentra.de]
 * Github: [https://github.com/Yadentra]
 * LinkedIn: [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
 ## Fun Fact:
