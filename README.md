@@ -17,7 +17,9 @@
 
 •⁠  ⁠*Projects:*
 I'm currently focusing on two exciting projects:
+
 *1. Construction Material Management App*
+
 •⁠  ⁠This mobile app aims to make construction material management a breeze! It helps track inventory, streamline ordering, and optimize costs, making construction projects more efficient and organized.
 
 *2. WEATHER LABS: Weather Alert Messaging System*
@@ -25,16 +27,25 @@ I'm currently focusing on two exciting projects:
 •⁠  ⁠The app provides timely weather alerts, keeping users informed and prepared for whatever the weather throws their way.
 
 •⁠  ⁠*Skills:*
+
 •⁠  ⁠*Programming Languages*: Python, Java, JavaScript
+
 •⁠  ⁠*Web Technologies*: HTML, CSS, React, Flask
+
 •⁠  ⁠*Tools & Frameworks*: Git, Selenium, JUnit, Postman
+
 •⁠  ⁠*Databases*: MySQL, MongoDB
+
 •⁠  ⁠*Other Skills*: Problem Solving, Communication, Teamwork## My Interests
+
 •⁠  ⁠I'm passionate about developing user-friendly interfaces and creating solutions that solvepersonalizedproblems.
+
 •⁠  ⁠I'm always looking for opportunities to collaborate on exciting app development projects.
+
 •⁠  ⁠I'm keen to learn more about mobile development, cloud computing, AI/ML.
 
 ## Let's Connect
+
 •⁠  ⁠Feel free to ask me about construction-related topics – I'm happy to share my knowledge.
 •⁠  ⁠You can reach me at: info@yadentra.de
 
