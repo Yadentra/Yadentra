@@ -1,5 +1,5 @@
-# [Yadentra] - Software Engineer
-👋  Welcome! I'm Yade, a software engineer with a passion for building innovative solutions, particularly in the construction and technology space. 
+# Yadentra - Software Engineer
+👋  Welcome! I'm Yadentra, a software engineer with a passion for building innovative solutions, particularly in the construction and technology space. 
 ## My Focus: Construction & Technology
 I'm deeply interested in combining my software engineering skills with the practical needs of the construction industry. I believe technology can play a crucial role in streamlining workflows, enhancing efficiency, and improving safety on construction projects.
 ## Current Projects:
