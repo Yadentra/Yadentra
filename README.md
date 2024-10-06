@@ -1,54 +1,39 @@
-### Hi there 👋
-•⁠  ⁠🔭 I'm currently working on developing innovative *construction applications* that streamline workflows and enhance efficiency.
+# [Your Name] - Software Engineer
+👋  Welcome! I'm Yade, a software engineer with a passion for building innovative solutions, particularly in the construction and technology space. 
+## My Focus: Construction & Technology
+I'm deeply interested in combining my software engineering skills with the practical needs of the construction industry. I believe technology can play a crucial role in streamlining workflows, enhancing efficiency, and improving safety on construction projects.
+## Current Projects:
+**1. Construction Material Management App:**
+* A mobile application designed to simplify and optimize the management of construction materials. Features include:
+    * Inventory tracking
+    * Streamlined ordering
+    * Cost optimization
+    * Real-time data insights
+**2. WEATHER LABS: Weather Alert Messaging System:**
+* A user-friendly weather forecasting app designed to keep users informed and prepared. Key features include:
+    * Personalized weather alerts based on location
+    * Customizable update frequency
+    * User-friendly interface
+    * Timely and accurate weather data
+## Skills & Expertise:
+* **Programming Languages:** Python, Java, JavaScript
+* **Web Technologies:** HTML, CSS, React, Flask
+* **Tools & Frameworks:** Git, Selenium, JUnit, Postman
+* **Databases:** MySQL, MongoDB
+* **Other:** Problem Solving, Communication, Teamwork
+## My Interests:
+* I'm passionate about developing user-friendly interfaces and creating solutions that address real-world challenges.
+* I'm eager to collaborate on exciting app development projects, especially those related to construction and technology.
+* I'm constantly seeking to learn and grow my skills, particularly in areas like mobile development, cloud computing, and AI/ML.
+## Let's Connect!
+- Feel free to ask me about construction-related topics. I'm happy to share my knowledge and insights.
+- You can reach me at: info@yadentra.de
+## Fun Fact:
+Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. This surprisingly helps them find the solution!
+## Hobbies:
+I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football. 
+##  Connect with me!
+- [https://github.com/Yadentra]
+- [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
 
-•⁠  ⁠🌱 I'm a passionate software engineer, constantly learning and growing my skills.
-
-•⁠  ⁠👯 I'm always eager to collaborate on exciting app development projects.
-
-•⁠  ⁠🤔 I'm open to learning anything related to software engineering, particularly in the areas of mobile development, cloud computing, AI/ML.
-
-•⁠  ⁠💬 Feel free to ask me about construction-related topics. I'm happy to share my knowledge and insights.
-
-•⁠  ⁠📫 Reach me at: info@yadentra.de
-
-•⁠  ⁠⚡ Fun fact:  Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. This surprisingly helps them identify the solution!
-
-•⁠  ⁠*Hobbies:* I enjoy hiking, watching F1, watching football, playing golf, running, playing music and also reading in my spare time.
-
-•⁠  ⁠*Projects:*
-I'm currently focusing on two exciting projects:
-
-*1. Construction Material Management App*
-
-•⁠  ⁠This mobile app aims to make construction material management a breeze! It helps track inventory, streamline ordering, and optimize costs, making construction projects more efficient and organized.
-
-*2. WEATHER LABS: Weather Alert Messaging System*
-•⁠  ⁠WEATHER LABS is a user-friendly messaging app that delivers personalized weather forecasts. Users can register, set their location, and choose the frequency of updates. 
-•⁠  ⁠The app provides timely weather alerts, keeping users informed and prepared for whatever the weather throws their way.
-
-•⁠  ⁠*Skills:*
-
-•⁠  ⁠*Programming Languages*: Python, Java, JavaScript
-
-•⁠  ⁠*Web Technologies*: HTML, CSS, React, Flask
-
-•⁠  ⁠*Tools & Frameworks*: Git, Selenium, JUnit, Postman
-
-•⁠  ⁠*Databases*: MySQL, MongoDB
-
-•⁠  ⁠*Other Skills*: Problem Solving, Communication, Teamwork## My Interests
-
-•⁠  ⁠I'm passionate about developing user-friendly interfaces and creating solutions that solvepersonalizedproblems.
-
-•⁠  ⁠I'm always looking for opportunities to collaborate on exciting app development projects.
-
-•⁠  ⁠I'm keen to learn more about mobile development, cloud computing, AI/ML.
-
-## Let's Connect
-
-•⁠  ⁠Feel free to ask me about construction-related topics – I'm happy to share my knowledge.
-•⁠  ⁠You can reach me at: info@yadentra.de
-
-##  Fun Fact
-•⁠  ⁠Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. It surprisingly helps them find the solution!
 
