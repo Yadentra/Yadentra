@@ -30,14 +30,14 @@ I'm deeply interested in combining my construction engineering expertise with my
 * I'm passionate about developing user-friendly interfaces and creating solutions that address real-world challenges.
 * I'm eager to collaborate on exciting app development projects, especially those related to construction and technology.
 * I'm constantly seeking to learn and grow my skills, particularly in areas like mobile development, cloud computing, and AI/ML.
+## Hobbies:
+I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football.
+## Fun Fact:
+Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. This surprisingly helps them find the solution!
 ##  Connect with me!
 - Feel free to ask me about construction-related topics. I'm happy to share my knowledge and insights.
 * Email: [info@yadentra.de]
 * Github: [https://github.com/Yadentra]
 * LinkedIn: [https://www.linkedin.com/in/yadentra-mapuranga-6721b5b6/]
-## Fun Fact:
-Programmers often use a technique called "rubber duck debugging" where they explain their code problem to an inanimate object, like a rubber duck. This surprisingly helps them find the solution!
-## Hobbies:
-I enjoy staying active through hiking, running, and playing golf. I also find relaxation and inspiration through music, reading, and watching Formula 1 and football. 
 
 
